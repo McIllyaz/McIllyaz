@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Halo, saya [Nama Anda] 👋
+
+Saya seorang Back-End Developer dengan spesialisasi [Sebutkan Teknologi, cth: ERP dan Sistem Inventaris]. Saya bersemangat mengubah ide kompleks menjadi solusi perangkat lunak yang efisien dan terukur.
+
+- 🔭 Saat ini saya sedang mengerjakan [Nama Proyek Anda].
+- 🌱 Saya sedang mendalami [Teknologi yang sedang dipelajari].
+- 💬 Tanya saya tentang [Topik yang Anda kuasai, cth: PHP, Laravel, Next.js, MS SQL Server].
+- 📫 Cara menghubungi saya: [Email atau LinkedIn Anda].
