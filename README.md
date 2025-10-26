@@ -9,6 +9,6 @@ Saya seorang Back-End Developer dengan spesialisasi [Sebutkan Teknologi, cth: ER
 - 💬 Tanya saya tentang [Topik yang Anda kuasai, cth: PHP, Laravel, Next.js, MS SQL Server].
 - 📫 Cara menghubungi saya: [Email atau LinkedIn Anda].
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[USERNAME_ANDA]&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[McIllyaz]&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_ANDA]&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[McIllyaz]&layout=compact&theme=tokyonight)
