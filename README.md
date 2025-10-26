@@ -26,7 +26,7 @@
 ## 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,js,ts,nextjs,react,tailwind,bootstrap,nodejs,mysql,mssql,prisma,redis,git,github,docker,nginx,vercel,azure&perline=12" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,ci,js,ts,nextjs,react,tailwind,bootstrap,nodejs,mysql,mssql,prisma,redis,git,github,docker,nginx,vercel,azure&perline=12" alt="Tech stack" />
 </p>
 
 ---
