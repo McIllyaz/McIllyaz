@@ -25,11 +25,7 @@
 
 ## 🧰 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nextjs,react,tailwind,bootstrap,nodejs,mysql,prisma,redis,git,github,docker,nginx,vercel,azure&perline=12" alt="Tech stack" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nextjs,react,tailwind,bootstrap,nodejs,mysql,prisma,git,github,docker,nginx,vercel,azure&perline=12" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nextjs,react,tailwind,bootstrap,nodejs,mysql,prisma,git,github,docker,nginx,vercel,azure&perline=12" alt="Tech stack" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/codeigniter/codeigniter-plain.svg" height="48" alt="CodeIgniter" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="MS SQL Server" />
 </p>
