@@ -60,10 +60,6 @@ Terbuka untuk kolaborasi pada proyek **ERP, web apps skala menengah-besar**, ata
 
 ---
 
-### Catatan
-
-* Gambar statistik di atas mengambil data dari layanan pihak ketiga (Vercel/Demolab); jika tidak muncul, coba refresh atau kunjungi lagi nanti.
-* Untuk menampilkan repo pilihan di profil, gunakan fitur **Pinned Repositories** di GitHub.
 
 <!--
 Tips cepat penyuntingan:
