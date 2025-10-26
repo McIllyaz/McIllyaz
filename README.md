@@ -1,19 +1,5 @@
 ## Hi there 👋
 
-<!--
-**McIllyaz/McIllyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Halo, saya [Nama Anda] 👋
 
 Saya seorang Back-End Developer dengan spesialisasi [Sebutkan Teknologi, cth: ERP dan Sistem Inventaris]. Saya bersemangat mengubah ide kompleks menjadi solusi perangkat lunak yang efisien dan terukur.
@@ -22,3 +8,7 @@ Saya seorang Back-End Developer dengan spesialisasi [Sebutkan Teknologi, cth: ER
 - 🌱 Saya sedang mendalami [Teknologi yang sedang dipelajari].
 - 💬 Tanya saya tentang [Topik yang Anda kuasai, cth: PHP, Laravel, Next.js, MS SQL Server].
 - 📫 Cara menghubungi saya: [Email atau LinkedIn Anda].
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[USERNAME_ANDA]&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_ANDA]&layout=compact&theme=tokyonight)
