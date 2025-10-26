@@ -24,11 +24,29 @@
 ---
 
 ## 🧰 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nextjs,react,tailwind,bootstrap,nodejs,mysql,prisma,git,github,docker,nginx,vercel,azure&perline=12" alt="Tech stack" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="48" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="48" alt="Prisma" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="48" alt="NGINX" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=azure" height="48" alt="Azure" />
+  <!-- Tambahan yang tidak ada di skillicons -->
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/codeigniter/codeigniter-plain.svg" height="48" alt="CodeIgniter" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="MS SQL Server" />
 </p>
+
 ---
 
 ## 🗂️ Sorotan Proyek
